@@ -14,4 +14,4 @@ I am a Frontend Learner who spends 90% of the time fighting with CSS and 10% cel
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-*“One project at a time (and maybe a few grey hairs too).”*
+*“One project at a time (and maybe a few grey hair too).”*

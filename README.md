@@ -1,10 +1,7 @@
 # Hi there! I'm Misha 👋
 
-I am a Frontend Learner who spends 90% of the time fighting with CSS and 10% celebrating that it finally works. Building my way through web development, one bug at a time.
+I am a Frontend Learner who spends 90% of the time fighting with JS and 10% celebrating that it finally works. Building my way through web development, one bug at a time.
 
-### 🧩 What I'm working on
-- 🛒 **Shopping Cart:** An interactive project where I practiced JavaScript logic and CSS animations.
-- 📐 **Navigation:** Building responsive and clean menu layouts.
 - ⚡ **Learning:** Getting comfortable with Git, GitHub, and modern CSS techniques.
 
 ### 🛠️ My Toolbox (so far)

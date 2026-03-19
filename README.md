@@ -2,7 +2,8 @@
 
 I am a Frontend Learner who spends 90% of the time fighting with JS and 10% celebrating that it finally works. Building my way through web development, one bug at a time.
 
-- ⚡ **Learning:** Getting comfortable with Git, GitHub, and modern CSS techniques.
+- ⚡ **Learning:** Transitioning from core **JavaScript** to **Nuxt.js** & **Vue.js** ecosystem.
+- 📱 **Solving:** Mobile browser compatibility and high-performance CSS animations.
 
 ### 🛠️ My Toolbox (so far)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

@@ -1,9 +1,19 @@
-# Hi there! I'm Misha 👋
+# Hi, I'm Misha 👋
 
-I am a Frontend Learner who spends 90% of the time fighting with JS and 10% celebrating that it finally works. Building my way through web development, one bug at a time.
+**Frontend Learner exploring the world of modern web development.**
 
-- ⚡ **Learning:** Transitioning from core **JavaScript** to **Nuxt.js** & **Vue.js** ecosystem.
-- 📱 **Solving:** Mobile browser compatibility and high-performance CSS animations.
+I’m currently focused on building a solid foundation in **JavaScript** and moving towards the **React & Next.js** ecosystem.
+My goal is to create clean, responsive websites while constantly expanding my technical toolkit.
+
+---
+
+### 🌱 What I’m currently working on:
+* **Core Skills:** Deepening my understanding of **JavaScript** and modern CSS with **Tailwind**.
+* **Frameworks:** Getting hands-on experience with **React**, **Next.js**, and **Vue/Nuxt**.
+* **Tools:** Working with **Git** and **AI-powered coding assistants**.
+* **Practice:** Building small, functional projects.
+
+---
 
 ### 🛠️ My Toolbox (so far)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

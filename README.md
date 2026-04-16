@@ -1,17 +1,16 @@
 # Hi, I'm Misha 👋
 
-**Frontend Learner exploring the world of modern web development.**
+**Self-taught Junior Frontend Developer**
 
-I’m currently focused on building a solid foundation in **JavaScript** and moving towards the **React & Next.js** ecosystem.
-My goal is to create clean, responsive websites while constantly expanding my technical toolkit.
+I'm currently exploring the web development landscape. I enjoy building projects with React, Vue/Nuxt, and TypeScript, focusing on learning how different frameworks work through hands-on experimentation.
 
 ---
 
-### 🌱 What I’m currently working on:
-* **Core Skills:** Deepening my understanding of **JavaScript** and modern CSS with **Tailwind**.
-* **Frameworks:** Getting hands-on experience with **React**, **Next.js**, and **Vue/Nuxt**.
-* **Tools:** Working with **Git** and **AI-powered coding assistants**.
-* **Practice:** Building small, functional projects.
+### 🌱 Current Focus
+* **Modern Web Stack:** Exploring the interplay between **JavaScript** and various frontend frameworks like **React** and **Vue**.
+* **Styling & Layouts:** Experimenting with **CSS** and **Tailwind** to build clean user interfaces.
+* **Development Workflow:** Leveraging **Git** and **AI tools** to speed up the building process.
+* **Learning by Doing:** Building and refactoring small applications to strengthen my understanding of logic and state.
 
 ---
 
